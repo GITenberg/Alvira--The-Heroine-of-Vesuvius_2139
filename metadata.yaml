@@ -1,0 +1,24 @@
+_repo: Alvira--The-Heroine-of-Vesuvius_2139
+_version: 0.0.1
+creator:
+  author:
+    agent_name: O'Reilly, A. J. (Augustine J.)
+    alias: O'Reilly, Augustine J.
+    gutenberg_agent_id: '833'
+    url: http://www.gutenberg.org/2009/agents/833
+description: ''
+gutenberg_issued: '2000-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2139'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Women and religion'
+- !lcsh 'Christian saints'
+- GITenberg
+title: 'Alvira: The Heroine of Vesuvius'
+url: http://www.gutenberg.org/ebooks/2139
