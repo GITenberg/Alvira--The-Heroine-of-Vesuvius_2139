@@ -1,5 +1,8 @@
 _repo: Alvira--The-Heroine-of-Vesuvius_2139
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: O'Reilly, A. J. (Augustine J.)
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '833'
     url: http://www.gutenberg.org/2009/agents/833
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2139#Alvira--The-Heroine-of-Vesuvius
 gutenberg_issued: '2000-04-01'
 gutenberg_type: Text
 identifiers:
